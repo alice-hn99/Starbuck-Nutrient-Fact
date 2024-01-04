@@ -1,5 +1,6 @@
 # Starbuck-Nutrient-Fact
 Repository with my work of analyzing starbuck's menu 
+
 1.1 Present the dataset
 “Starbucks is an American company that runs the world's largest chain of coffee shops and one of the most well-known brands. With its main office located in Seattle, Washington, the company has over 35,000 stores operating in 80 countries as of 2022” (Melissa Petruzzello, 2023). The coffee flavor from Starbucks is excellent. It is very easy to become addicted to and difficult to resist. For those who a coffee lovers and health enthusiasts, going to the gym without a solid diet plan in place is an easy way to waste time. As a result, it is important to examine and learn more about the nutrition that we consume from Starbucks. 
 
